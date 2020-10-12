@@ -17,6 +17,18 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+-번호 없는 리스트
+1. 번호 있는 리스트
+2. _기울인 글씨_
+3. __굵은 글씨__
+4. >인용문
+5. [인라인 링크](https://www.naver.com/)
+6. [참조링크][https://www.naver.com/]
+7. ![이미지](
+8. ____ 
+9. /'코드 내용/'
+    
+    
 
 1. Numbered
 2. List
@@ -35,3 +47,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
